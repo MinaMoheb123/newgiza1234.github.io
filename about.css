@@ -1,0 +1,12 @@
+.navbar{
+    background-color: darkblue !important;
+}
+.navbar-brand{
+    color: white !important;
+}
+.nav-link{
+    color: white !important;
+    font-size: 20px;
+    margin: 20px;
+    display: inline-block;
+}
